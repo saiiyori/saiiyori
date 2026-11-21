@@ -16,9 +16,12 @@
 
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&duration=3500&pause=1000&color=ad9f81&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
+ <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=1000&color=98aa92&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
 
 </br>
+</br>
+</br>
+<img src="https://cdn.discordapp.com/attachments/1259164205504790540/1573639486473248819/IMG_6480.jpg?ex=6b02bd7a&is=6b016bfa&hm=72a782548f8ae5bd46594454b7c9f9ecccc213d95fedb0b2f08a7bea7183c76c&"width=800>
 </br>
 </br>
 </br>
