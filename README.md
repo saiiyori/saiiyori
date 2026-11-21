@@ -15,7 +15,7 @@
 
    [ɑꞇɑ](https://saiiyori.atabook.org/) 
    [prɴѕ](https://pronouns.cc/@saiiyori)
-
+   [тт](https://www.tiktok.com/@k_nariqzz)
 </details>
 
 </div>
