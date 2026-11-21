@@ -22,11 +22,11 @@
 
 
 
- <h3>
+ <h5>
   <img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&duration=3000&pause=2000&color=8C6489&lines=In+the+end,+it+was+meaningless.">
-   </h3>
- <h3> ⠀⠀⠀⠀⠀⠀⠀<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&duration=3000&pause=2000&color=F0E0DF&lines=Does+that+fill+you+with+despair?">
- </h3>
+   </h5>
+ <h5> ⠀⠀⠀⠀⠀⠀⠀<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&duration=3000&pause=2000&color=F0E0DF&lines=Does+that+fill+you+with+despair?">
+ </h5>
 
 <br><br><br>
 <br clear="right"/>
