@@ -10,6 +10,7 @@
 
 </br>
 </br>
+</br>
 
 </div>
 
@@ -20,7 +21,13 @@
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
 <img src="https://cdn.discordapp.com/attachments/1369581346787164213/1573649895297126520/IMG_6489.jpg?ex=6b02c72c&is=6b0175ac&hm=8cccfe0629f5802b50a5d2b5c711c34c6bb75bdb61d2ababc42c3e29abea5420&"width=800>
+</br>
+</br>
 </br>
 </br>
 </br>
