@@ -2,10 +2,9 @@
 
 <div align="center">
 
-<a href="https://github.com/tomiika">
-  <img src="https://img.shields.io/badge/c+h+k_enc!!-1A1A1A?style=for-the-badge&logoColor=C8A2C8" alt="c+h+k enc!!"/>
-</a>
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=saiiyori&label=stalkers&color=824e5e&style=plastic)
 
 </div>
 
