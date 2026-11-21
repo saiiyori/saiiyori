@@ -16,12 +16,12 @@
 
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3500&pause=1000&color=558377&center=true&vCenter=true&width=800&lines=In+the+end,+it+was+meaningless.+Does+that+fill+you+with+despair%3F" alt="In the end, it was meaningless. Does that fill you with despair?" />
+ <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3500&pause=1000&color=5b4d4e&center=true&vCenter=true&width=800&lines=In+the+end,+it+was+meaningless.+Does+that+fill+you+with+despair%3F" alt="In the end, it was meaningless. Does that fill you with despair?" />
 
 </br>
 </br>
 </br>
-<img src="https://cdn.discordapp.com/attachments/1259164205504790540/1573639486473248819/IMG_6480.jpg?ex=6b02bd7a&is=6b016bfa&hm=72a782548f8ae5bd46594454b7c9f9ecccc213d95fedb0b2f08a7bea7183c76c&"width=800>
+<img src="https://cdn.discordapp.com/attachments/1369581346787164213/1573649895297126520/IMG_6489.jpg?ex=6b02c72c&is=6b0175ac&hm=8cccfe0629f5802b50a5d2b5c711c34c6bb75bdb61d2ababc42c3e29abea5420&"width=800>
 </br>
 </br>
 </br>
