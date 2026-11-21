@@ -1,16 +1,20 @@
-## Hi there 👋
+---
 
-<!--
-**saiiyori/saiiyori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/tomiika">
+  <img src="https://img.shields.io/badge/c+h+k_enc!!-1A1A1A?style=for-the-badge&logoColor=C8A2C8" alt="c+h+k enc!!"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+</br>
+</br>
+
+</div>
+
+<div align="center">
+
+ <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&duration=3500&pause=1000&color=705341&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
+
