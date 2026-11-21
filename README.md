@@ -16,7 +16,7 @@
 
 <div align="center">
 
- <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=1000&color=98aa92&center=true&vCenter=true&width=800&lines=Don't+you+talk+about+life+while+you're+still+living+it%3F" alt="Don't you talk about life while you're still living it?" />
+ <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3500&pause=1000&color=558377&center=true&vCenter=true&width=800&lines=In+the+end,+it+was+meaningless.+Does+that+fill+you+with+despair?%3F" alt="In the end, it was meaningless. Does that fill you with despair?" />
 
 </br>
 </br>
