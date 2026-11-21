@@ -22,9 +22,6 @@
 
 
 
-
-<br><br><br>
-
  <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&duration=3000&pause=2000&color=8C6489&lines=In+the+end,+it+was+meaningless.">
    </h3>
