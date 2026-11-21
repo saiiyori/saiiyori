@@ -6,14 +6,24 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=saiiyori&label=stalkers&color=824e5e&style=plastic)
 
 </div>
+</br>
+</br>
 
+ <div align="center">
+<details>
+  <summary><b>ㅤ𓇬ㅤ</b></summary>
+
+   [ɑꞇɑ](https://saiiyori.atabook.org/) 
+   [prɴѕ](https://pronouns.cc/@saiiyori)
+
+</details>
+
+</div>
 
 
 </br>
 </br>
 
-</br>
-</br>
 
 <img align="right" width="325" src="https://cdn.discordapp.com/attachments/1369581346787164213/1573730510423990465/327_20261121210257.png?ex=6b031240&is=6b01c0c0&hm=c7f2ae92cf4b97bf528cee2bb0abdcab9f9ae2df9e8da5e6e473401232fff0f8">
 
