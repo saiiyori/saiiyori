@@ -3,7 +3,7 @@
 <div align="center">
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=saiiyori&label=stalkers&color=824e5e&style=plastic)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=saiiyori&label=stalkers&color=8C6489&style=plastic)
 
 </div>
 </br>
