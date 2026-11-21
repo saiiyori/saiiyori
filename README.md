@@ -32,9 +32,9 @@
 
 
  <h4>
- ⠀⠀⠀⠀⠀⠀<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&size=14&duration=3000&pause=2000&color=8C6489&lines=In+the+end,+it+was+meaningless.">
+ ⠀⠀⠀⠀⠀⠀<img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=14&duration=3000&pause=2000&color=8C6489&lines=In+the+end,+it+was+meaningless.">
    </h4>
- <h4> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&size=12&uration=3000&pause=2000&color=F0E0DF&lines=Does+that+fill+you+with+despair?">
+ <h4> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&size=12&uration=3000&pause=2000&color=F0E0DF&lines=Does+that+fill+you+with+despair?">
  </h4>
 <br><br><br>
  <a href="https://github.com/kittinan/spotify-github-profile">
